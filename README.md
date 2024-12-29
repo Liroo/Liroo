@@ -1,16 +1,18 @@
-## Hi there 👋
+## Howdy ho 👋
 
-<!--
-**Liroo/Liroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freelance depeveloper here working to make 🕸️ the internet 🕸️ great again.
 
-Here are some ideas to get you started:
+### 🔭 Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Working as a Lead web / handyman in [@Club](https://instagram.com/clubfans_app)
+Working as a freelance
+
+### 📫 Mail
+
+liroo.pierre@gmail.com
+
+### 👀 Socials
+
+[Instagram](https://www.instagram.com/liroopierre)
+[Instagram Studio Push](https://www.instagram.com/studio.push)
+[Twitter](https://x.com/LirooPierre)
