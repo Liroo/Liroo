@@ -4,7 +4,7 @@ Developer working to make 🕸️ the internet 🕸️ great again.
 
 ### 🔭 Currently
 
-+ Working as a Full Stack engineer in [@Club](https://instagram.com/clubfans_app)
++ Working as a Full Stack engineer in [@Luvi](https://instagram.com/luvi.page)
 + Working as a freelance
 
 ### 📫 Mail
