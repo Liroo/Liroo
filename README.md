@@ -1,18 +1,18 @@
 # Howdy ho 👋
 
-Developer working to make 🕸️ the internet 🕸️ great again.
+Full-stack developer on a mission to make 🕸️ the internet 🕸️ great again.
 
 ### 🔭 Currently
 
-+ Working as a Full Stack engineer in [@Luvi](https://instagram.com/luvi.page)
-+ Working as a freelance
+- Working as a Full-Stack Engineer at [@Luvi](https://instagram.com/luvi.page)
+- Building cool stuff as a freelancer
 
-### 📫 Mail
+### 📫 Get in touch
 
-+ liroo.pierre@gmail.com
+- liroo.pierre@gmail.com
 
-### 👀 Socials
+### 👀 Find me online
 
-+ [Instagram](https://www.instagram.com/liroopierre)
-+ [Instagram Studio Push](https://www.instagram.com/studio.push)
-+ [Twitter](https://x.com/LirooPierre)
+- [Instagram](https://www.instagram.com/liroopierre)
+- [Studio Push](https://www.instagram.com/studio.push)
+- [Twitter / X](https://x.com/LirooPierre)
