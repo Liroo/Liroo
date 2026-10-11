@@ -1,11 +1,10 @@
 # Howdy ho 👋
 
-
-Freelance depeveloper working to make 🕸️ the internet 🕸️ great again.
+Developer working to make 🕸️ the internet 🕸️ great again.
 
 ### 🔭 Currently
 
-+ Working as a Lead web / handyman in [@Club](https://instagram.com/clubfans_app)
++ Working as a Full Stack engineer in [@Club](https://instagram.com/clubfans_app)
 + Working as a freelance
 
 ### 📫 Mail
